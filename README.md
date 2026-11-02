@@ -1,6 +1,4 @@
-# Localhost Website
-
-Static website chuyển từ thiết kế Figma [Localhost Website](https://www.figma.com/design/lbgy9B1FU9zbhPeCvuZkfN/Localhost-Website--Community-).
+# Rent Homestay
 
 ## Tính năng
 
