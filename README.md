@@ -25,13 +25,6 @@ localhost-website/
 
 Mở `index.html` bằng trình duyệt hoặc dùng live server.
 
-## Deploy GitHub Pages
-
-1. Tạo repo mới trên GitHub
-2. Push code lên
-3. Settings → Pages → Source: Deploy from branch `main` / root
-4. Website sẽ chạy tại `https://<username>.github.io/<repo-name>/`
-
 ## Checklist kiểm thử
 
 - [ ] Hiển thị đúng trên Desktop (≥900px)
